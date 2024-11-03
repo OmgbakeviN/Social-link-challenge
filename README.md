@@ -34,7 +34,7 @@ Users should be able to: do a web page that displays buttons to the different ac
 ### Links
 
 - Solution URL: [github repository](https://github.com/OmgbakeviN/Social-link-challenge)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://linkchallenge.netlify.app/)
 
 ## My process
 
